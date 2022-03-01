@@ -1,0 +1,78 @@
+input {
+    border: 0;
+    border-bottom: 2px solid #1FD7FE;
+    background-color: transparent;
+    outline: none;
+    color: #1FD7FE;
+}
+
+.loginIcon {
+    width: 80px;
+    height: 100px;
+}
+
+.menuIcon{
+    width: 60px;
+    height: 70px;
+}
+
+.modalBody {
+    text-align: center;
+    background: black;
+    color: #1FD7FE;
+}
+
+Button {
+    width: 150px;
+}
+
+.nameNavBar {
+    margin-left: 10px;
+}
+
+.loginLogout {
+    margin-right: 10px;
+}
+
+.modalButton{
+    margin: 10px;
+}
+
+.card{
+    text-align: center;
+    margin: 4px;
+}
+
+.readMoreButton{
+    text-align: center;
+}
+
+.cardDeck{
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden !important;
+    scrollbar-width: none;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+.row card-deck{
+    text-align: center;
+}
+
+HeartCheckbox{
+    margin-top: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.filterComponents{
+    text-align: center;
+}
+
+.avatar{
+    justify-content: center;
+    margin-left: 35px;
+}
